@@ -1,0 +1,204 @@
+{
+  "search_metadata": {
+    "id": "65d305fcc47d3c962722ef3b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5b5aaa3f53c30d42/65d305fcc47d3c962722ef3b.json",
+    "created_at": "2024-02-19 07:40:44 UTC",
+    "processed_at": "2024-02-19 07:40:44 UTC",
+    "google_maps_reviews_url": "https://www.google.com/async/reviewDialog?hl=en&async=feature_id:,sort_by:,next_page_token:,associated_topic:,_fmt:json",
+    "raw_html_file": "https://serpapi.com/searches/5b5aaa3f53c30d42/65d305fcc47d3c962722ef3b.html",
+    "prettify_html_file": "https://serpapi.com/searches/5b5aaa3f53c30d42/65d305fcc47d3c962722ef3b.prettify",
+    "total_time_taken": 4.36
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "place_id": "ChIJv2sb_Lm5lzMR5GcsU02ykGk",
+    "hl": "en"
+  },
+  "place_info": {
+    "title": "Emerhub Philippines",
+    "address": "35th Floor Penthouse, Ecotower, 32nd Street, 9th Ave, Taguig, Metro Manila, Philippines",
+    "rating": 5,
+    "reviews": 20
+  },
+  "topics": [
+    {
+      "keyword": "experience",
+      "mentions": 6,
+      "id": "/m/01rhgl"
+    },
+    {
+      "keyword": "company",
+      "mentions": 6,
+      "id": "/g/120z18l3"
+    },
+    {
+      "keyword": "service",
+      "mentions": 4,
+      "id": "/m/018tkd"
+    },
+    {
+      "keyword": "team",
+      "mentions": 3,
+      "id": "/m/011l78"
+    }
+  ],
+  "reviews": [
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNObjc3V1RBEAE!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgICNn77WTA%7CCgwI9OaorQYQ6PSEsgI%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "4 weeks ago",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNObjc3V1RBEAE",
+      "user": {
+        "name": "Maria Cenar",
+        "link": "https://www.google.com/maps/contrib/110669327412172239693?hl=en-US",
+        "contributor_id": "110669327412172239693",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLVT8d-qCPj9oxInrZyFJpdkt9Tu0ptMfNT9wg2UzRi=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "Our company is very happy with the service Emerhub provides. Their responsiveness and accommodating nature are greatly appreciated. The service that Emerhub provides is also something I recommend to others. As of now, we are still engaged in their services, showing our satisfaction. We are glad to work with this team and meet them!"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM1ejhQQ0hBEAE!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgIC5z8PCHA%7CCgwIpui8qQYQ6POClAM%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1ejhQQ0hBEAE",
+      "user": {
+        "name": "gelo tan",
+        "link": "https://www.google.com/maps/contrib/115606666158839979455?hl=en-US",
+        "contributor_id": "115606666158839979455",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXNA-75NvVEzD1Hpfw9hYGbrEycOHjfgKHRIlKaW9YVITY=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "Simply Amazing! Emerhub provides quality service when starting a company. It goes above and beyond your expectations! Key players are its knowledgeable employees that helps you get started. You can do nothing wrong in trusting Emerhub!",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM1ejg2M2pnRRAB!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgIC5z863jgE%7CCgwIjNu8qQYQ6K20mQM%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1ejg2M2pnRRAB",
+      "user": {
+        "name": "Jericho Lainez",
+        "link": "https://www.google.com/maps/contrib/110078040996744314201?hl=en-US",
+        "contributor_id": "110078040996744314201",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKIErqhzbuMH-_tABkR4h1V-JGXKECmVO9RL9cVNhGE=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "I had an amazing experience with Emerhub! The service was top-notch. I highly recommend them to anyone looking for quality and excellent service."
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM1ejVIX1pnEAE!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgIC5z5H_Zg%7CCgwI3N68qQYQgLzA3gE%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1ejVIX1pnEAE",
+      "user": {
+        "name": "Christine Neria",
+        "link": "https://www.google.com/maps/contrib/118237625956711326028?hl=en-US",
+        "contributor_id": "118237625956711326028",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXEaeyVjDztFv_jOa3VchvT0HSr5A2LG9-BtRSfsj7CTTU=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "Very dependable company with excellent service and approachable employees. If you want to start a company, Emerhub can, without an iota of doubt, help you with your registration. Kudos to the whole team!",
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ1b0lXWm9BRRAB!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgID5oIWZoAE%7CCgwIpra_qQYQoJKHigE%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1b0lXWm9BRRAB",
+      "user": {
+        "name": "Resty Carlo Chua",
+        "link": "https://www.google.com/maps/contrib/103352232488525042920?hl=en-US",
+        "contributor_id": "103352232488525042920",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLHJbhplFCTSR0rJIpgeXrJXvPKL2D-eiA4OkLGYe3x=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "It’s a pleasure working with Emerhub. They provide good quality of working!\n\nMr. Navoa, hope you have a promotion sooner or later"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR0M2ZfeEp3EAE!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgIDt3f_xJw%7CCgsI2b2IrgYQkJC_YQ%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "a week ago",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0M2ZfeEp3EAE",
+      "user": {
+        "name": "Mary Anne Grace Bonifacio",
+        "link": "https://www.google.com/maps/contrib/111880640444996308672?hl=en-US",
+        "contributor_id": "111880640444996308672",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKqrOMTKcH6Mblhee-eHyDC1aA47QOTSYWxrWbVtK6u=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "We availed of Corp Sec and Corp Secretary Services and the service is quick and professional"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURGN3BEZWFREAE!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgIDF7pDeaQ%7CCgwI9pGoqgYQgMLaqAI%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "3 months ago",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGN3BEZWFREAE",
+      "user": {
+        "name": "Marivic Dayawon",
+        "link": "https://www.google.com/maps/contrib/113372542364313954601?hl=en-US",
+        "contributor_id": "113372542364313954601",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVjSBi72VlxXKGwJXv3HHmbnGSog_2jzWQiS2BvHR36QQ=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "I highly recommend this company. All staff are accomodating. Good job!"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ1d0tMdnpRRRAB!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgID5wKLvzQE%7CCgsIsIG_qQYQoLT5fA%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1d0tMdnpRRRAB",
+      "user": {
+        "name": "Karl Angeles",
+        "link": "https://www.google.com/maps/contrib/110842979743271522142?hl=en-US",
+        "contributor_id": "110842979743271522142",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV4SnmqoRE36Rf0HWWJeMotwYysR5Ob9RvvAHpkYxKigQ=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "Had a great experience working with them, specially with Mr. Navoa. Kudos to you!"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ1c1ByNkR3EAE!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgID5sPr6Dw%7CCgwI_uLCqQYQkIOzngE%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1c1ByNkR3EAE",
+      "user": {
+        "name": "C C",
+        "link": "https://www.google.com/maps/contrib/113874291558361398209?hl=en-US",
+        "contributor_id": "113874291558361398209",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJv7Lb-C3_0UxOi4J0O6z3YCm6LvFu-uG9jo6DRdfXb=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "I am happy with my experience with Emerhub. Excellent service!"
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNGX1lPWExnEAE!2m1!1s0x0:0x6990b24d532c67e4!3m1!1s2@1:CIHM0ogKEICAgICF_YOXLg%7CCgwItrmGqgYQ8Lr30QE%7C?hl=en-US",
+      "rating": 5.0,
+      "date": "3 months ago",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGX1lPWExnEAE",
+      "user": {
+        "name": "Leo Madera",
+        "link": "https://www.google.com/maps/contrib/105814300555345789335?hl=en-US",
+        "contributor_id": "105814300555345789335",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVXICnCPS9A7aWB2l4XCUhJA_hoJpi6kk1WI0lLjb9PHCk=s40-c-rp-mo-br100",
+        "reviews": 1
+      },
+      "snippet": "Outstanding assistance. Greatly advised. The staff is personable, competent, and professional!"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps_reviews&hl=en&next_page_token=CAESBkVnSUlDZw%3D%3D&place_id=ChIJv2sb_Lm5lzMR5GcsU02ykGk",
+    "next_page_token": "CAESBkVnSUlDZw=="
+  }
+}
